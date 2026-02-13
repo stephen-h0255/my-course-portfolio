@@ -13,6 +13,7 @@ Welcome to my academic portfolio for [Essential Tooling for Programmers]!
 - [ ] Complete all lab assignments
 - [ ] Build a professional portfolio
 - [ ] Collaborate on group projects
+- [ ] Learn Markdown
 
 ## Projects
 *This section will be updated as I complete assignments*
